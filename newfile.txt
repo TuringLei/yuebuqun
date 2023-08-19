@@ -1,1 +1,2 @@
 write some message to this file
+Now,I modified file in merge hot-fix!
