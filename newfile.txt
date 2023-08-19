@@ -1,4 +1,4 @@
 write some message to this file
 Now,I modified file in merge master!
 Now,I modified file in merge hot-fix!
-
+Now,I write a sentence in remote repository!!!
